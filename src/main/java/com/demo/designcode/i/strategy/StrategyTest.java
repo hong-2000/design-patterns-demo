@@ -21,7 +21,7 @@ public class StrategyTest {
         System.out.println(Calculator.ADD.exec(Integer.parseInt(split[0]), Integer.parseInt(split[split.length - 1])));
 
         /**
-         * @author zhaoqinghong
+         * @author hong-2000
          * 所有的策略都需要暴露，复用小 类数量多
          * 需要配合其他模式，产生混合模式，策略数4个以上用混合，工厂方法，代理，享元
          */
