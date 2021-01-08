@@ -5,7 +5,6 @@ import java.util.ArrayList;
 /**
  * @author QingHong
  * @description 树叶节点
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class Leaf extends AbstractComponent {

@@ -7,7 +7,6 @@ import com.demo.designcode.j.observer.subject.ConcreteSubject;
 /**
  * @author QingHong
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class ObserverTest {

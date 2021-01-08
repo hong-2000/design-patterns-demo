@@ -5,7 +5,6 @@ import com.demo.designcode.k.mediator.AbstractMediator;
 /**
  * @author QingHong
  * @description 通用中介者
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class ConcreteMediator extends AbstractMediator {

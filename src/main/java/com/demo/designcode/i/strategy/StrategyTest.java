@@ -5,7 +5,6 @@ import com.demo.designcode.i.strategy.strategy.ConcreteStrategyOne;
 /**
  * @author QingHong
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class StrategyTest {

@@ -8,7 +8,6 @@ import java.util.Random;
 /**
  * @author QingHong
  * @description 结构对象
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class ObjectStruture {

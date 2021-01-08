@@ -3,7 +3,6 @@ package com.demo.designcode.v.flyweight;
 /**
  * @author QingHong
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class FlyweightTest {

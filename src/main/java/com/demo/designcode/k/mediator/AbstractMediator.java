@@ -6,7 +6,6 @@ import com.demo.designcode.k.mediator.colleague.ConcreteColleagueTwo;
 /**
  * @author QingHong
  * @description 通用抽象中介者
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public abstract class AbstractMediator {

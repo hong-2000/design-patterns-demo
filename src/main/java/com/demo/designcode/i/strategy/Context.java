@@ -3,7 +3,6 @@ package com.demo.designcode.i.strategy;
 /**
  * @author QingHong
  * @description 封装角色
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class Context {

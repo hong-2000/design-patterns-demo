@@ -6,7 +6,6 @@ import com.demo.designcode.t.state.Context;
 /**
  * @author QingHong
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class StateTwo extends AbstractState {

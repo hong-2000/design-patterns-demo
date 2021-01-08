@@ -5,7 +5,6 @@ import com.demo.designcode.u.interpreter.Expression;
 /**
  * @author QingHong
  * @description ||表达式
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class OrExpression implements Expression {

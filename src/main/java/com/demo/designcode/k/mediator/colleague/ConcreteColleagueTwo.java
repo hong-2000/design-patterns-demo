@@ -6,7 +6,6 @@ import com.demo.designcode.k.mediator.AbstractMediator;
 /**
  * @author QingHong
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class ConcreteColleagueTwo extends AbstractColleague {

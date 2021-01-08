@@ -3,7 +3,6 @@ package com.demo.designcode.v.flyweight;
 /**
  * @author QingHong
  * @description 抽象享元角色
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public abstract class AbstractFlyweight {

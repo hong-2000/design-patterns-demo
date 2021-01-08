@@ -3,7 +3,6 @@ package com.demo.designcode.o.iterator;
 /**
  * @author QingHong
  * @description 抽象容器
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public interface Aggregate {

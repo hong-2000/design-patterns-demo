@@ -5,7 +5,6 @@ import com.demo.designcode.j.observer.AbstractSubject;
 /**
  * @author QingHong
  * @description 具体被观察者
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class ConcreteSubject extends AbstractSubject {

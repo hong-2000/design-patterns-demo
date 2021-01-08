@@ -5,7 +5,6 @@ import com.demo.designcode.u.interpreter.Expression;
 /**
  * @author QingHong
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class AndExpression implements Expression {
