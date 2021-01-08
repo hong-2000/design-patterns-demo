@@ -23,7 +23,7 @@ public class CommandTest {
         invoker.action();
 
         /**
-         * @author zhaoqinghong
+         * @author hong-2000
          * 结合责任链，实现命令族解析任务
          * 结合模板方法，减少command子类的膨胀问题
          */

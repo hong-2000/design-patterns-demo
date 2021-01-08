@@ -1,9 +1,8 @@
 package com.demo.designcode.c.factory;
 
 /**
- * @author QingHong
+ * @author hong-2000
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 class Factory {
@@ -49,7 +48,7 @@ class Factory {
      * @param className 接口的子类
      * @param clazz     描述的是一个接口的类型
      * @return 如果子类存在则返回指定接口实例化对象
-     * @author zhaoqinghonh
+     * @author hong-2000
      */
     @SuppressWarnings("unchecked")
     public static <T> T getInstance(String className, Class<T> clazz) {

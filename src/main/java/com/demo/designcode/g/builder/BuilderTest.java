@@ -11,7 +11,6 @@ import java.util.ArrayList;
 /**
  * @author QingHong
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class BuilderTest {
@@ -53,7 +52,7 @@ public class BuilderTest {
         director.setSecondBuilder().run();
 
         /**
-         * @author zhaoqinghong
+         * @author hong-2000
          * 1. Product
          * 2. AbstractBuilder
          * 3. ReallyBuilder

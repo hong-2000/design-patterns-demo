@@ -18,7 +18,7 @@ public class DecoratorTest {
         component.operate();
 
         /**
-         * @author zhaoqinghong
+         * @author hong-2000
          * 1. Component
          * 2. ConcreteComponent
          * 3. Decorator

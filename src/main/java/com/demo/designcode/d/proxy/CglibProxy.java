@@ -6,9 +6,8 @@ import net.sf.cglib.proxy.MethodProxy;
 import java.lang.reflect.Method;
 
 /**
- * @author QingHong
+ * @author hong-2000
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 class CglibProxy implements MethodInterceptor {//拦截器配置

@@ -5,9 +5,8 @@ import com.google.common.util.concurrent.ThreadFactoryBuilder;
 import java.util.concurrent.*;
 
 /**
- * @author QingHong
+ * @author hong-2000
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class SingletonTest {
@@ -47,7 +46,7 @@ public class SingletonTest {
         System.out.println();
 
         // 运用google.guava手动创建线程
-        ThreadFactory threadFactory = new ThreadFactoryBuilder().setNameFormat("thread-zqh=%d").build();
+        ThreadFactory threadFactory = new ThreadFactoryBuilder().setNameFormat("thread-xx=%d").build();
         ExecutorService threadPoolExecutor = new ThreadPoolExecutor(3,
                 10, 180L, TimeUnit.MILLISECONDS,
                 new LinkedBlockingQueue<Runnable>(), threadFactory);

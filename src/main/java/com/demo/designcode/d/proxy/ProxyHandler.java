@@ -5,9 +5,8 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * @author QingHong
+ * @author hong-2000
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 class ProxyHandler implements InvocationHandler {

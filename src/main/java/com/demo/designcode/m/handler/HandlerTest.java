@@ -23,7 +23,7 @@ public class HandlerTest {
         System.out.println(response.getDealMan() + " " + response.getMsg());
 
         /**
-         * @author zhaoqinghong
+         * @author hong-2000
          * 效率问题，控制节点数量
          */
     }

@@ -5,9 +5,8 @@ import com.demo.designcode.k.mediator.colleague.ConcreteColleagueTwo;
 import com.demo.designcode.k.mediator.mediator.ConcreteMediator;
 
 /**
- * @author QingHong
+ * @author hong-2000
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class MediatorTest {
@@ -21,7 +20,7 @@ public class MediatorTest {
         colleagueTwo.depMethodTwo();
 
         /**
-         * @author zhaoqinghong
+         * @author hong-2000
          * 减少依赖，降低类间的耦合
          * 同事类越多。中介者的逻辑就越复杂
          */

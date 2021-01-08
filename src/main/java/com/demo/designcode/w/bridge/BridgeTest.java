@@ -3,9 +3,8 @@ package com.demo.designcode.w.bridge;
 import com.demo.designcode.w.bridge.implementor.ImplementorOne;
 
 /**
- * @author QingHong
+ * @author hong-2000
  * @description
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class BridgeTest {
@@ -15,7 +14,7 @@ public class BridgeTest {
         abstraction.request();
 
         /**
-         * @author zhaoqinghong
+         * @author hong-2000
          * 解决继承的缺点而提出的设计模式
          */
     }

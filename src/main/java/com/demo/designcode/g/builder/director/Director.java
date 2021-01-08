@@ -10,7 +10,6 @@ import java.util.ArrayList;
 /**
  * @author QingHong
  * @description 导演类
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 public class Director {

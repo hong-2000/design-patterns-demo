@@ -5,7 +5,6 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * @author QingHong
  * @description 模板方法
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 @Slf4j

@@ -5,9 +5,8 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.ArrayList;
 
 /**
- * @author QingHong
+ * @author hong-2000
  * @description 原型
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 @Slf4j

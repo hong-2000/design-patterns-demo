@@ -1,9 +1,8 @@
 package com.demo.designcode.d.proxy;
 
 /**
- * @author QingHong
+ * @author hong-2000
  * @description CGLIB
- * @QQ 2560612959
  * @create 2021/1/4 17:50
  */
 class Message {

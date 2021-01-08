@@ -1,7 +1,7 @@
 package com.demo.designcode.i.strategy;
 
 /**
- * @author zhaoqinghong
+ * @author hong
  * @date 2020/12/2 16:36
  * 策略枚举
  */
