@@ -14,18 +14,18 @@ public class FactoryTest {
          * 所以使用工厂设计模式
          */
         System.out.println("\t-----静态工厂-----");
-        IMessage message = Factory.getMessageInstance("cn.zqhblog.designcode.c.factory.NetMessage");
+        IMessage message = Factory.getMessageInstance("cn.demo.designcode.c.factory.NetMessage");
         message.send();
         /**
          * 以上属于静态工厂类的调用
          * 而动态工厂类采用了泛型
          */
         System.out.println("\t-----动态工厂-----");
-        IMessage message2 = Factory.getInstance("cn.zqhblog.designcode.c.factory.NetMessage", IMessage.class);
+        IMessage message2 = Factory.getInstance("cn.demo.designcode.c.factory.NetMessage", IMessage.class);
         message2.send();
-        IMessage message3 = Factory.getInstance("cn.zqhblog.designcode.c.factory.CloudMessage", IMessage.class);
+        IMessage message3 = Factory.getInstance("cn.demo.designcode.c.factory.CloudMessage", IMessage.class);
         message3.send();
-        IService service = Factory.getInstance("cn.zqhblog.designcode.c.factory.HouseServiceImpl", IService.class);
+        IService service = Factory.getInstance("cn.demo.designcode.c.factory.HouseServiceImpl", IService.class);
         service.service();
     }
 }
